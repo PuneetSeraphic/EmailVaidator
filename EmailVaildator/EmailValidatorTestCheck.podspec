@@ -1,9 +1,9 @@
 
 Pod::Spec.new do |spec|
 
-  spec.name         = "EmailValidator"
+  spec.name         = "EmailValidatorTestCheck"
   spec.version      = "1.0.0"
-  spec.summary      = "A short description of EmailValidator."
+  spec.summary      = "A short description of EmailValidatorTestCheck."
   spec.description  = "I have no idea what i write a discription"
   spec.homepage     = "https://github.com/PuneetSeraphic/EmailVaidator"
   spec.license      = "MIT"
